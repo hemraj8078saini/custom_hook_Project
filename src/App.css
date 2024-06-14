@@ -1,0 +1,13 @@
+
+img{
+  width: 300px;
+  height: 400px;
+}
+.product-container{
+  width: 400px;
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+  /* border:2px solid black; */
+  gap:4px;
+  
+}
